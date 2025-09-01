@@ -49,20 +49,24 @@ Módulos de la librería estándar (no se instalan): json, os
 
 📂 Archivos del repositorio
 pokedex.py        # Código principal
+
 README.md         # Explicación del proyecto
+
 pokedex/          # Carpeta con archivos JSON generados
 
 ---
 
 🖼 Ejemplo de salida
+
 ✅ Pokémon encontrado:
-Nombre: pikachu
-Peso: 60
-Altura: 4
-Tipos: electric
-Habilidades: static, lightning-rod
-Movimientos: mega-punch, pay-day, thunder-punch, slam, double-kick
-Imagen: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png
+
+- Nombre: pikachu
+- Peso: 60
+- Altura: 4
+- Tipos: electric
+- Habilidades: static, lightning-rod
+- Movimientos: mega-punch, pay-day, thunder-punch, slam, double-kick
+- Imagen: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png
 
 💾 Información guardada en: pokedex/pikachu.json
 
@@ -79,3 +83,4 @@ Cómo guardar información en un archivo JSON.
 Cómo organizar un proyecto en Python y subirlo a GitHub.
 
 Y un poco más del mundo Pokémon ⚡.
+
